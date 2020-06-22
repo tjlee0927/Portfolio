@@ -1,0 +1,52 @@
+/*****************  Global Variables *****************/
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; 
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+h1, h2, h3, h4, h5 {
+    color: #3d4050 !important;
+    font-weight: 300 !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+    line-height: 1.1 !important;
+}
+.h1, h1 {
+    font-size: 36px !important;
+}
+.h3, h3 {
+    font-size: 24px !important;
+}
+.h5, h5 {
+    font-size: 14px !important;
+}
+a {
+    color: #337ab7 !important;
+    text-decoration: none;
+}
+
+/*****************  END OF GLOBAL VAR   *****************/
+/* Nav Bar Styling */
+.nav-link {
+    color : black;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#profile_pic{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 4px 6px 2px lightgrey;
+}
+
+
